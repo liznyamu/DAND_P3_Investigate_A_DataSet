@@ -53,9 +53,34 @@ I suggest you read that as well.
 ### The project investigates the stated question(s) from multiple angles. At least three variables are investigated using both single-variable (1d) and multiple-variable (2d) explorations.
 :white_check_mark: Nice job investigating the stated questions from multiple angles.
 
-### Learning Notes
+#### Learning Notes
 - [This link](http://www.math.kent.edu/~reed/Instructors/MATH%2010041/Ch4/Univariate%20vs%20bivariate%20data.pdf) contains good material on Differences between Univariate and Bivariate data as shown below.
 
-![Summary : Differences between univariate and bivariate data](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/58402/1519196836/Screenshot_from_2018-02-21_08-07-05.png)
+![Summary : Differences between univariate and bivariate data](https://github.com/liznyamu/DAND_P3_Investigate_A_DataSet/blob/master/UnivariateVsBiVariate.png)
+
+### The project's visualizations are varied and show multiple comparisons and trends. Relevant statistics are computed throughout the analysis when an inference is made about the data.
+
+### At least two kinds of plots should be created as part of the explorations.
+:white_check_mark: Visualizing data requires a lot of patience and determination because it's not easy selecting the best visualization to match with a given data type. Well enough, the project rightly builds descriptive visualizations using a variety of plots.:+1:
+
+## Conclusions Phase
+### The results of the analysis are presented such that any limitations are clear. The analysis does not state or imply that one change causes another based solely on a correlation.
+:white_check_mark: Good work presenting the results of the analysis.
+
+#### Learning Notes
+- A description of limitations typically identifies either a shortcoming of the dataset that has caused difficulty (e.g. missing data) or a shortcoming of the methods of analysis (e.g. a statistical approach which may not be ideal given the characteristics of the data set).
+
+## Communication
+
+### Reasoning is provided for each analysis decision, plot, and statistical summary.
+:white_check_mark: Great job!
+
+### Visualizations made in the project depict the data in an appropriate manner that allows plots to be readily interpreted.
+:white_check_mark: Good work!
+
+#### Suggestions
+- There are several other ways to visualize data including Box plots, Line graphs, Pie charts. Check out this [documentation](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html) on Visualization with Seaborn**.
+- [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+- Check out [this documentation](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html) on Visualization with Seaborn.
 
 
